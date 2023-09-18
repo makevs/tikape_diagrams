@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T16:48:40.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.7.5" etag="G3hTIqgDUUdYVQcK_fPi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T12:59:40.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OXN0aE-3DTJwGk4jFhWr" version="21.7.5" type="github">
   <diagram name="Page-1" id="ACBvnrUL073hcAvGRkHz">
-    <mxGraphModel>
+    <mxGraphModel dx="2043" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-1" value="vuori" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-2" value="kiipeilymatka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-3" value="vaeltaja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-4" value="maanosa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="230" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-5" value="vuoristo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-6" value="&lt;u&gt;nimi&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-7" value="&lt;u&gt;tunnus&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QLr34hSxFT8oEc6V1pnZ-8" value="korkeus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="75" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
