@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T07:53:44.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="X8PbCB3AsNED5s0lmVPg" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T07:55:23.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vPYRtvs5t3S1beU0PAal" version="21.8.1" type="github">
   <diagram name="Page-1" id="rCQEHk5AixNXXwSne6Aq">
     <mxGraphModel dx="1658" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,13 +104,13 @@
           <mxGeometry x="-30" y="170" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_bvSd32ubLVk9DA3Oi3Z-34" value="viikonpäivä" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="580" width="90" height="60" as="geometry" />
+          <mxGeometry x="10" y="665" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bvSd32ubLVk9DA3Oi3Z-35" value="alkaa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="640" width="90" height="60" as="geometry" />
+          <mxGeometry x="115" y="690" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bvSd32ubLVk9DA3Oi3Z-36" value="loppuu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="90" height="60" as="geometry" />
+          <mxGeometry x="230" y="690" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bvSd32ubLVk9DA3Oi3Z-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="_bvSd32ubLVk9DA3Oi3Z-35" target="_bvSd32ubLVk9DA3Oi3Z-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_bvSd32ubLVk9DA3Oi3Z-40" value="max_osallistujat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="499.99999999999994" width="90" height="60" as="geometry" />
+          <mxGeometry x="-40" y="585" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_bvSd32ubLVk9DA3Oi3Z-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="_bvSd32ubLVk9DA3Oi3Z-40" target="_bvSd32ubLVk9DA3Oi3Z-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
